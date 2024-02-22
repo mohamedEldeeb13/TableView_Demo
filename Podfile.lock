@@ -1,0 +1,16 @@
+PODS:
+  - HGPlaceholders (0.5.0)
+
+DEPENDENCIES:
+  - HGPlaceholders
+
+SPEC REPOS:
+  trunk:
+    - HGPlaceholders
+
+SPEC CHECKSUMS:
+  HGPlaceholders: cbf8caed8360fc2ab5e8a4610cce61f76fbd2c37
+
+PODFILE CHECKSUM: f071a35514e8f22d8bd256cfa3c109ed9762cc81
+
+COCOAPODS: 1.14.2
